@@ -1,0 +1,31 @@
+/* GLOBAL STYLES
+------------------------------------------------ */
+body {
+  font-family: 'Prompt', sans-serif;
+  color: #2A4040;
+  background: #CCCCCC;
+  padding: 10px 20px 10px 20px;
+  margin: 10px;
+}
+a {
+  color: #2A4040;
+}
+header,
+nav,
+main {
+  padding: 8px 20px;
+}
+
+/* HEADER STYLES
+------------------------------------------------ */
+h1, h2 {
+  font-family: 'GFS Didot', serif;
+}
+h1 {
+  color: #557F7F;
+  font-size: 48px;
+}
+h2 {
+  color: #669999;
+  font-size: 30px;
+}
