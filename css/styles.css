@@ -2,13 +2,14 @@
 ------------------------------------------------ */
 body {
   font-family: 'Prompt', sans-serif;
-  color: #2A4040;
-  background: #CCCCCC;
+  color: #CEE8E8;
+  background: #384040;
+/*  background-image: url("../images/rawpixel-618755-unsplash.jpg"); WORK ON THIS */
   padding: 10px 20px 10px 20px;
   margin: 10px;
 }
 a {
-  color: #2A4040;
+  color: #CEE8E8;
 }
 header,
 nav,
@@ -22,10 +23,10 @@ h1, h2 {
   font-family: 'GFS Didot', serif;
 }
 h1 {
-  color: #557F7F;
+  color: #6EBFBF;
   font-size: 48px;
 }
 h2 {
-  color: #669999;
+  color: #6EBFBF;
   font-size: 30px;
 }
